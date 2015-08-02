@@ -12796,17 +12796,17 @@ ETC_20150714_012796	바닥에 떨어진 종이를 주웠습니다{nl} 인벤토�
 ETC_20150714_012797	님께서 꺼내가셨습니다.
 ETC_20150714_012798	님께서 저장하셨습니다.
 ETC_20150714_012799	배식대와 거리가 멉니다. 음식을 먹으려면 가까이에서 시도하세요.
-ETC_20150714_012800	퀘스트 툴 파일 복사
-ETC_20150714_012801	사냥 시 퀘스트 시작 아이템
-ETC_20150714_012802	연출파일 열기
-ETC_20150714_012803	존 xml 열기
-ETC_20150714_012804	채집 NPC
-ETC_20150714_012805	data폴더위치
-ETC_20150714_012806	존 몬스터 정보 수집
-ETC_20150714_012807	퀘스트 전체 보기
-ETC_20150714_012808	개인서버 세팅
-ETC_20150714_012809	동시에 찾아 바꾸기
-ETC_20150714_012810	Link 경로로 Quest 복사
+ETC_20150714_012800	Quest file copy tool
+ETC_20150714_012801	When item hunting quest begins
+ETC_20150714_012802	Directing file open
+ETC_20150714_012803	xml Open
+ETC_20150714_012804	Gathering NPC
+ETC_20150714_012805	data Folder Location
+ETC_20150714_012806	Monster collecting information
+ETC_20150714_012807	Quest View All
+ETC_20150714_012808	Individual server settings
+ETC_20150714_012809	At the same time changing to find
+ETC_20150714_012810	Quest copied to the Link Path
 ETC_20150714_012811	설정 수정 모음
 ETC_20150714_012812	사용 안하는 NPC 검색
 ETC_20150714_012813	GenType 체크
